@@ -70,7 +70,7 @@
        alt="Node.js" width="65" height="45"/>
 </a>
 
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+<a href="https://www.svgrepo.com/svg/354119/nodejs-icon" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
        alt="Express.js" width="45" height="45"/>
 </a>
