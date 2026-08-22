@@ -67,7 +67,7 @@
 
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
-       alt="Node.js" width="65" height="65"/>
+       alt="Node.js" width="65" height="45"/>
 </a>
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
